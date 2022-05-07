@@ -7,5 +7,7 @@ public class Pattern {
         TemplatePattern.esegui();
         DecoratorPattern.esegui();
         StrategyPattern.esegui();
+        StrategyInterfaceA.esegui();
+        StrategyInterfaceLambda.esegui();
     }
 }
